@@ -16,4 +16,6 @@ const book1 = [libros[2].titulo, libros[2].autor];
 libros[1].paginas= 350;
 //console.log(libros[1]);
 
+
+
 //Utiliza la función map para generar un nuevo array de libros que solo tenga las propiedades tituloy autor
